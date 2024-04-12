@@ -1,0 +1,1 @@
+@include('email.shared.fields_info', ['cancelada' => false, 'confirmada' => false, 'fechada' => true])
